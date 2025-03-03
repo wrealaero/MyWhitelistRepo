@@ -1,0 +1,9 @@
+{
+    "WhitelistedUsers": {
+        "8095896656": {
+            "level": 10,
+            "attackable": false,
+            "tags": ["OWNER"]
+        }
+    }
+}
